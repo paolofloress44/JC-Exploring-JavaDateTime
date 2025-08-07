@@ -1,6 +1,11 @@
 # Paolo Miguel D. Flores
 ## Hands-on Lab: Working with Java's Date and Time API
 
+### Exercise 1: LocalDate and DateTimeFormatter
+![sc](sc.png)
+
+---
+
 ### Exercise 2: LocalTime and DateTimeFormatter
 
 **Prediction**:</br>
